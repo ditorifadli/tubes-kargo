@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673276177 source:c:\users\ditor\documents\tubes\tubes_meta\kargo.cpp
+	"kargo.h"
+
+1673276298 c:\users\ditor\documents\tubes\tubes_meta\kargo.h
+	<iostream>
+	<windows.h>
+
+1673276311 source:c:\users\ditor\documents\tubes\tubes_meta\main.cpp
+	"kargo.h"
+
